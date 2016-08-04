@@ -1,0 +1,48 @@
+_repo: Glinda-of-Oz--13-In-Which-Are-Related-the-Exciting-Experiences-of-Princess-Ozma-of-Oz-and-Dorot__961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "Glinda of Oz is the fourteenth Land of Oz book written by children's\
+  \ author L. Frank Baum, published on July 10, 1920. It is the last book of the original\
+  \ Oz series, which was later continued by other authors. Like most of the Oz books,\
+  \ the plot features a journey through some of the remoter regions of Oz; though\
+  \ in this case the pattern is doubled: Dorothy and Ozma travel to stop a war between\
+  \ the Flatheads and Skeezers; then Glinda and a cohort of Dorothy's friends set\
+  \ out to rescue them. The book was dedicated to Baum's second son, Robert Stanton\
+  \ Baum.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Literature
+- Fantasy
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '961'
+  wikidata: Q5569658
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Fantasy'
+- GITenberg
+title: "Glinda of Oz\r\nIn Which Are Related the Exciting Experiences of Princess\
+  \ Ozma of Oz, and Dorothy, in Their Hazardous Journey to the Home of the Flatheads,\
+  \ and to the Magic Isle of the Skeezers, and How They Were Rescued from Dire Peril\
+  \ by the Sorcery of Glinda the Good"
+url: http://www.gutenberg.org/ebooks/961
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%BA%D9%84%D9%8A%D9%86%D8%AF%D8%A7_%D9%85%D9%86_%D8%A3%D9%88%D8%B2
+- https://en.wikipedia.org/wiki/Glinda_of_Oz
+- https://pt.wikipedia.org/wiki/Glinda_of_Oz

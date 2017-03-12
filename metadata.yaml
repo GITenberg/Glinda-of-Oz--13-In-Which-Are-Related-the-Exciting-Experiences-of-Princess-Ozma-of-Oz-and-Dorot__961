@@ -1,5 +1,8 @@
 _repo: Glinda-of-Oz--13-In-Which-Are-Related-the-Exciting-Experiences-of-Princess-Ozma-of-Oz-and-Dorot__961
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -20,6 +23,8 @@ description: "Glinda of Oz is the fourteenth Land of Oz book written by children
   \ the Flatheads and Skeezers; then Glinda and a cohort of Dorothy's friends set\
   \ out to rescue them. The book was dedicated to Baum's second son, Robert Stanton\
   \ Baum.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/961#Glinda-of-Oz--13-In-Which-Are-Related-the-Exciting-Experiences-of-Princess-Ozma-of-Oz-and-Dorot_
 gutenberg_bookshelf:
 - Children's Literature
 - Fantasy
